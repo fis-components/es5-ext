@@ -9,5 +9,5 @@
         "es6-symbol": "3"
     },
     "main": "index.js",
-    "version": "0.10.8"
+    "version": "0.10.9"
 }
