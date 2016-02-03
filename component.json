@@ -1,6 +1,6 @@
 {
     "name": "es5-ext",
-    "description": "ECMAScript 5 extensions and ES6 shims",
+    "description": "ECMAScript extensions and shims",
     "repos": "https://github.com/medikoo/es5-ext.git",
     "tag": "master",
     "reposType": "npm",
@@ -9,5 +9,5 @@
         "es6-symbol": "~3.0.1"
     },
     "main": "index.js",
-    "version": "0.10.10"
+    "version": "0.10.11"
 }
