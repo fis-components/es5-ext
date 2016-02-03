@@ -6,8 +6,8 @@
     "reposType": "npm",
     "dependencies": {
         "es6-iterator": "2",
-        "es6-symbol": "3"
+        "es6-symbol": "~3.0.1"
     },
     "main": "index.js",
-    "version": "0.10.9"
+    "version": "0.10.10"
 }
